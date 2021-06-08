@@ -1,12 +1,10 @@
 {
     "preload": [
-		  "helpers/*",
-		  "event-emitter"
+		  "event-emitter-mod"
 	  ],
     "modules": {
       "*": [
         "./*"
-      ],
-      "helpers/*": "./helpers/*"
+      ]
     }
   }

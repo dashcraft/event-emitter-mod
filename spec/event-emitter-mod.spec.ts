@@ -1,4 +1,4 @@
-import EventEmitter from '../src/event-emitter';
+import EventEmitter from '../src/event-emitter-mod';
 
 describe("Event emitter unit tests", () => {
     it('Should call event listener with data', () => {
