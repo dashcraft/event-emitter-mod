@@ -1,6 +1,6 @@
 {
   "name": "event-emitter-mod",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Moddable SDK/XS compatible Event Emitter utility.",
   "main": "./event-emitter-mod/event-emitter-mod.js",
   "keywords": "moddable,xs,event-emitter,embedded,iot",
